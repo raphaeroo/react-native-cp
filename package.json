@@ -1,0 +1,33 @@
+{
+  "name": "react-native-cp",
+  "version": "0.0.1",
+  "description": "React Native cp",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/raphaeroo/react-native-cp.git"
+  },
+  "keywords": [
+    "react-native",
+    "react-component",
+    "react-native-component",
+    "react",
+    "mobile",
+    "ios",
+    "android",
+    "counter",
+    "countdown"
+  ],
+  "author": {
+    "name": "Raphael Freitas",
+    "email": "fiuskiz@gmail.com"
+  },
+  "homepage": "https://github.com/raphaeroo/react-native-cp",
+  "bugs": {
+    "url": "https://github.com/raphaeroo/react-native-cp/issues"
+  },
+  "dependencies": {
+    "lodash": "^4.17.13",
+    "sprintf-js": "^1.1.1",
+    "prop-types": "^15.5.8"
+  }
+}
