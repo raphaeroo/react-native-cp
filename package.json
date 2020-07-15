@@ -4,7 +4,7 @@
   "description": "React Native cp",
   "repository": {
     "type": "git",
-    "url": "https://github.com/raphaeroo/react-native-cp.git"
+    "url": "git+https://github.com/raphaeroo/react-native-cp.git"
   },
   "keywords": [
     "react-native",
@@ -17,10 +17,7 @@
     "counter",
     "countdown"
   ],
-  "author": {
-    "name": "Raphael Freitas",
-    "email": "fiuskiz@gmail.com"
-  },
+  "author": "Raphael Freitas <fiuskiz@gmail.com>",
   "homepage": "https://github.com/raphaeroo/react-native-cp",
   "bugs": {
     "url": "https://github.com/raphaeroo/react-native-cp/issues"
@@ -29,5 +26,10 @@
     "lodash": "^4.17.19",
     "prop-types": "^15.7.2",
     "sprintf-js": "^1.1.2"
-  }
+  },
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "license": "MIT"
 }
