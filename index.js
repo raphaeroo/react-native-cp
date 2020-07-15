@@ -242,4 +242,3 @@ fontWeight: 'bold',
 });
 
 export default CountDown;
-export { CountDown };
