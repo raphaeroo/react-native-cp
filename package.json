@@ -1,6 +1,6 @@
 {
   "name": "react-native-cp",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "React Native cp",
   "repository": {
     "type": "git",
@@ -26,8 +26,8 @@
     "url": "https://github.com/raphaeroo/react-native-cp/issues"
   },
   "dependencies": {
-    "lodash": "^4.17.13",
-    "sprintf-js": "^1.1.1",
-    "prop-types": "^15.5.8"
+    "lodash": "^4.17.19",
+    "prop-types": "^15.7.2",
+    "sprintf-js": "^1.1.2"
   }
 }

@@ -4,7 +4,9 @@
 React Native CountDown
 
 ## Installation
-Run `npm install react-native-cp --save` OR `yarn add react-native-cp`
+Run `npm i react-native-cp` OR `yarn add react-native-cp`
+
+Note: add --save if you are using npm < 5.0.0
 
 ## Props
 | Name | Description | Type | Default Value |
